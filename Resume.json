@@ -1,0 +1,25 @@
+{
+	"basics": {
+		"name": "AMAN KUMAR",
+		"label": "Student",
+		
+		"email": "2019kucp1034@iiitkota.ac.in",
+		
+	"education": [{
+		"institution": "Indian Institute of Information technology, kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"keywords": ["HTML", "CSS", "Javascript","Java", "MySQL", "C/C++", "Python"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Coding","Guitar","Mobile Gaming", "Web Development"]
+	}],
+	
+}
